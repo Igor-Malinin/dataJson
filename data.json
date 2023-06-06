@@ -1,5 +1,4 @@
-{
-"items": [
+[
   {
     "_id": {
       "$oid": "5d8a6c6ee27330487c1678fb"
@@ -10800,4 +10799,4 @@
   "violation_description": "\"HANDWASHING FACILITIES SUPPLIED",
   "violation_code": " ACCESSIBLE\"",
   "business_location": "0008"
-}]}
+}]
